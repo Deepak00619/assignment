@@ -1,27 +1,30 @@
-Clone:
+##Screenshot
 
-After Clone: 
+![](https://github.com/Deepak00619/assignment/blob/master/2021-02-07%20(4).png)
 
-put some data in .env file:
+##Clone:
 
-URL = http://localhost
-PORT = 12001
+-After Clone: 
 
-HOST = "localhost"
-USERS = "root"
-PASSWORD = 'your Password'
-DATABASE = 'your database name'
+-put some data in .env file:
 
-For Frontend:
+-URL = http://localhost
+-PORT = 12001
+-HOST = "localhost"
+-USERS = "root"
+-PASSWORD = 'your Password'
+-DATABASE = 'your database name'
 
-1)cd frontend
-2)npm init
-3)npm start
+##For Frontend:
 
-For Backend:
+-cd frontend
+-npm init
+-npm start
 
-1) cd backend
-2)npm init
-3) node app.js
+##For Backend:
+
+- cd backend
+-npm init
+- node app.js
 
 
